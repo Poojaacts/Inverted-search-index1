@@ -1,0 +1,12 @@
+#index;word;filecount;filename;wordcount;
+#0;are;1;file1.txt;1;
+#0;am;1;file2.txt;1;
+#1;Banglore;1;file2.txt;1;
+#6;good;1;file1.txt;1;
+#7;Hii;2;file1.txt;1;file2.txt;1;
+#7;How;1;file1.txt;1;
+#8;I;1;file2.txt;1;
+#8;in;1;file2.txt;1;
+#12;morning;1;file1.txt;1;
+#24;you;1;file1.txt;1;
+#26;?;1;file1.txt;1;
